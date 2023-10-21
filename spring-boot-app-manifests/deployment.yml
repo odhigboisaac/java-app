@@ -18,4 +18,4 @@ spec:
       - name: spring-boot-app
         image: tekshare/ultimate-cicd:beta
         ports:
-        - containerPort: 8080
+        - containerPort: 5000
